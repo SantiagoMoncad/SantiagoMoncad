@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SantiagoMoncadaMejia
+- 👋 Hi, I’m @SantiagoMoncadaMejía
 - 👀 I’m interested in ... Mobile App Development and Software Development
 - 🌱 I’m currently learning ... Computer Science
 - 💞️ I’m looking to collaborate on ... Open-Source, FinTech, Crypto, StartUps, Web Design and Entrepreneurship
